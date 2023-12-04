@@ -1,5 +1,10 @@
 # SAGAN_modified
 
+## Requirements
+```bash
+pip install -r requirements.txt
+```
+
 ## Dataset
 CelebA 
 ```bash
